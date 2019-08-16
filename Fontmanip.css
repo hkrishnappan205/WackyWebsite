@@ -1,0 +1,51 @@
+h1{
+
+  font-size: 300px;
+color: black;
+font-family: papyrus;
+}
+li{
+  font-size: 20px;
+  color:red;
+  font-weight: 600;
+}
+
+img{
+widht: 100px;
+heigh: 500px;
+border: 100px purple solid;
+}
+p{
+
+
+}
+
+p:hover{
+  background-atta
+}
+
+body{background-image:url(https://media2.giphy.com/media/bLDCiJDbywZt6/source.gif);
+
+}
+body:hover{
+  background-color:yellow;
+}
+img:hover{
+  background-color:yellow;
+}
+h1:hover{
+  background-color: pink;
+}
+body{background-color: lime};
+
+a[target="_blank"] {
+  background-color: yellow;
+}
+
+
+div {
+  width: 1100px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+}
